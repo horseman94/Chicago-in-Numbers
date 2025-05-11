@@ -1,11 +1,11 @@
 # Chicago-in-Numbers
-Chicago in Numbers: Exploring Crime, Education, and Inequality
+Chicago in Numbers: Exploring Crime, Education, and Inequality.
 
 
 ### Project Overview
 
 This project explores and analyzes key datasets from the City of Chicago to uncover relationships and patterns among socioeconomic factors, public education performance, and crime rates across various neighborhoods. By integrating these datasets, the goal is to gain a deeper understanding of how these elements interact and how they might influence each other in an urban context.
-May-2025
+
 
 
 ### Data Sources
@@ -34,7 +34,7 @@ This dataset reflects all reported crime incidents in the City of Chicago, exclu
 ### Data Cleaning/Preparation
 
 - Data loading and inspection.
-- Adding headers to the tables.
+- Making sure columns have headers.
 - Changing the names of tables to shorter ones.
 
 ### Basic Data Analysis
@@ -61,16 +61,64 @@ WHERE
     `Per Capita Income` < 11000;
 ```
 
+- Listing all case numbers for crimes involving minors and kidnapping crimes involving a child.
 
+(This inquiry allows for deeper investigation into the circumstances surrounding crimes involving minors and children, as well as Pattern recognition.)
 
+```sql
+SELECT
+    ID,
+    CASE_NUMBER,
+    DESCRIPTION
+FROM
+    Chicago_Crime_Data
+WHERE
+    DESCRIPTION LIKE '%MINOR%' OR DESCRIPTION LIKE '%CHILD%';
+```
+  
+- Listing each kind of crime and its count that were recorded at schools.
 
+(This helps to quickly identify the most and least frequent types of criminal activity occurring in school environments. This allows for a focused understanding of the specific safety and security challenges schools face, enabling targeted interventions and resource allocation to address the most prevalent issues.)
 
+```sql 
+    SELECT
+    DESCRIPTION,
+    COUNT(*) AS Crime_Count
+FROM
+    Chicago_Crime_Data
+WHERE
+    LOCATION_DESCRIPTION LIKE '%SCHOOL%'
+GROUP BY
+    DESCRIPTION;
+```
+- Listing the types of schools along with the average safety score for each type.
 
+(This can quickly highlight whether one type of school, on average, reports higher or lower safety levels, potentially informing resource allocation, policy adjustments, or further investigation into the factors contributing to these differences.)
 
+```sql
+SELECT
+    `Elementary, Middle, or High School`,
+    AVG(`Safety Score`) AS Average_Safety_Score
+FROM
+    Chicago_Public_Schools
+GROUP BY
+    `Elementary, Middle, or High School`;
+```
 
+- Listing the 5 community areas with the highest percentage of households below the poverty line.
 
+(To pinpoint the neighborhoods facing the most significant economic hardship. This allows for targeted interventions, resource allocation, and policy focus to address poverty and support vulnerable communities in those specific areas.)
 
-
+```sql
+SELECT
+    `COMMUNITY AREA NAME`,
+    `PERCENT HOUSEHOLDS BELOW POVERTY`
+FROM
+    Census_Data
+ORDER BY
+    `PERCENT HOUSEHOLDS BELOW POVERTY` DESC
+LIMIT 5;
+```
 
 
 
