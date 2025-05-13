@@ -9,7 +9,7 @@ The visual clearly demonstrates a strong negative correlation between the two in
 
 Generally, as the Per Capita Income tends to decrease, the Hardship Index increases (indicating greater socioeconomic challenges). Conversely, community areas with a lower Hardship Index typically exhibit a higher Per Capita Income.
 
-![image](https://github.com/user-attachments/assets/43cc3e1e-a035-4bd1-96e2-3dffa777cc35)
+![image](https://github.com/user-attachments/assets/f691b29b-d138-42ff-9858-d86e15fd2843)
 
 - The relation between: Per Capita Income and Percent Aged 16+ Unemployed, as well as the Percent Aged 25+ Without a High School Diploma.
 
@@ -29,6 +29,6 @@ Both visuals highlight key socioeconomic factors contributing to the Hardship In
 
 "Our analysis reveals that economic hardship in Chicago is fundamentally driven by lower per capita incomes. These depressed income levels, in turn, are directly attributable to reduced educational attainment and high unemployment rates within affected communities. Consequently, strategic investments in both education and job creation are crucial to alleviating hardship across the city."
 
-
+[Power Bi Report](https://drive.google.com/file/d/1Ys5oJivp5grwI_8aC48gpcqv351kHIe0/view?usp=drive_link)
 
 
