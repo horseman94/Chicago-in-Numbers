@@ -2,6 +2,8 @@
 
 In this visual report, I am able to offer a detailed perspective of reported crime incidents, enabling a detailed analysis of crime patterns across the city. This report leverages this data to provide specific insights into crime frequency by location, district, and type, as well as associated arrest rates. The interactive nature of the visualizations allows for targeted exploration of the data.
 
+The interactive nature of the report allows for multi-faceted analysis. Users can highlight a specific value or multiple values across different charts to gain a deeper understanding of the relationships between crime location, district, type, date, and arrest outcomes. This enables a more nuanced understanding of the factors contributing to crime patterns in Chicago.
+
 ### Frequency
 
 This report examines crime patterns in Chicago, utilizing data from the Chicago Crime Data dataset. The analysis focuses on understanding the distribution of crime across different locations, the frequency of various crime types, and the relationship between crime locations and arrest rates.
@@ -56,7 +58,3 @@ Some Findings:
 
 ![image](https://github.com/user-attachments/assets/1fb09379-ca0f-44cd-9e87-ebe33992ee74)
 
-
-- Interactive Data Exploration:
-
-The interactive nature of the report allows for multi-faceted analysis. Users can highlight a specific value or multiple values across different charts to gain a deeper understanding of the relationships between crime location, district, type, and arrest outcomes. This enables a more nuanced understanding of the factors contributing to crime patterns in Chicago.
