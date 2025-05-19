@@ -30,6 +30,7 @@ This dataset reflects all reported crime incidents in the City of Chicago, exclu
 
 ### Tools
 - SQLite
+- Power BI
 
 ### Data Cleaning/Preparation
 
