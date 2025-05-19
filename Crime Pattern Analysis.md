@@ -36,6 +36,27 @@ The "Arrest Rates by Crime Location" chart highlights locations with lower arres
 ![image](https://github.com/user-attachments/assets/bf5c23b8-fcb6-422a-9b2e-9d25f6b51530)
 
 
+- Crimes per Year
+
+This report focuses on the count of crimes by year and provides a filter for the description of the crime, along with a filter for whether an arrest was made.
+
+By interacting with these elements, a user could:
+
+1- Identify years with the highest and lowest crime rates or any specific year, by visually comparing the slice sizes in the pie chart.
+
+2- Focus the analysis on specific types of crimes using the "DESCRIPTION OF CRIME" filter. For example, they could select "THEFT" to see the yearly trend of theft incidents.
+
+3- Examine the arrest rates for specific years or types of crimes by using the "ARREST" filter in conjunction with the year selection or crime description selection. This could reveal trends in law enforcement outcomes over time or for different offenses.
+
+Some Findings:
+
+- The temporal analysis of crime data reveals a notable decrease in crime rates during the period of 2010-2016, with each of these years accounting for less than 5% of the total recorded incidents. This trend suggests a period of improvement in public safety. However, the most recent full year in our dataset, 2017, indicates a concerning increase to 5.65%, warranting closer monitoring of subsequent trends.
+
+- Furthermore, our analysis of arrest data in relation to crime frequency yields an interesting correlation. The years exhibiting lower crime rates (2010-2016) also correspond with a lower number of arrests. Conversely, the years with higher crime rates show a proportional increase in arrests. This observation suggests that while law enforcement and arrests are a response to crime, they may not be the sole or most effective long-term solution. This aligns with the insights from our 'Hardship Index Analysis' (as previously discussed), which indicates that underlying economic and social factors play a significant role in driving crime. Therefore, a more comprehensive approach that includes addressing socioeconomic disparities, alongside effective law enforcement strategies, may be necessary to achieve sustained reductions in crime rates.
+
+![image](https://github.com/user-attachments/assets/1fb09379-ca0f-44cd-9e87-ebe33992ee74)
+
+
 - Interactive Data Exploration:
 
 The interactive nature of the report allows for multi-faceted analysis. Users can highlight a specific value or multiple values across different charts to gain a deeper understanding of the relationships between crime location, district, type, and arrest outcomes. This enables a more nuanced understanding of the factors contributing to crime patterns in Chicago.
