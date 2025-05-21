@@ -8,6 +8,10 @@ This combined approach allows us to precisely identify 'Blocks' that are most si
 
 ![image](https://github.com/user-attachments/assets/6dc52b44-c374-4bbe-b3b6-8ee50b018eeb)
 
+Highlighting the block '009X E 132ND PL', which registers the highest Hardship Index, reveals a critical correlation: this same block also records the second-lowest Per Capita Income. This direct observation underscores the strong link between areas experiencing significant socioeconomic hardship and their diminished economic well-being.
+
+![image](https://github.com/user-attachments/assets/91e9dd16-8172-439f-b661-bb2b921c7116)
+
 - Household Below Poverty & Housing Crowded, by Block
 
 ![image](https://github.com/user-attachments/assets/f34d1027-beab-47d3-a3aa-ba470b2c8ee8)
