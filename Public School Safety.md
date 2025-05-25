@@ -17,4 +17,11 @@ Our analysis reveals several critical factors that positively influence a school
 ![image](https://github.com/user-attachments/assets/9bd398f5-c34b-4e46-a147-801acce1638c)
 
 In conclusion, this analysis clearly demonstrates that school safety is not an isolated factor but is deeply interconnected with academic achievement, student engagement, and educational progress. Schools that make Adequate Yearly Progress, maintain high student attendance, and show strong student growth in reading are more likely to achieve higher Safety Scores. These findings underscore the holistic nature of school improvement, where academic success and student well-being mutually reinforce a positive and safe learning environment.
+_________________________________________________
+
+Building on insights from our previous school safety analysis, which identified Adequate Yearly Progress (AYP), student attendance, and ISAT reading growth as key influencers, this section now delves into the actual performance of schools across these critical indicators.
+ 
+The report prominently features a pie chart illustrating the proportion of schools that either met or did not meet their Adequate Yearly Progress targets, revealing that a significant majority of schools faced challenges in achieving these benchmarks. Complementing this overview are two detailed tables. These lists provide specific school-level data on average student attendance and ISAT reading growth, showcasing individual institutional performance across these vital areas. By presenting these fundamental academic and operational data points, this report offers crucial context for understanding the broader factors that contribute to both school safety and overall educational effectiveness.
+
+![image](https://github.com/user-attachments/assets/09458363-d1cd-4b8b-9cd5-559209b48d5c)
 
