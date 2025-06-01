@@ -1,10 +1,10 @@
-# Chicago-in-Numbers
-Chicago in Numbers: Exploring Crime, Education, and Inequality.
+# Chicago's Hardship
+Chicago-Hardship-in-Numbers: Exploring Crime, Education, and Inequality.
 
 
 ### Project Overview
 
-This project explores and analyzes key datasets from the City of Chicago to uncover relationships and patterns among socioeconomic factors, public education performance, and crime rates across various neighborhoods. By integrating these datasets, the goal is to gain a deeper understanding of how these elements interact and how they might influence each other in an urban context.
+This project explores and analyzes key datasets from the City of Chicago to uncover relationships and patterns among socioeconomic factors, public education performance, and crime rates across various neighborhoods, all affecting the 'Hardship Index'. By integrating these datasets, the goal is to gain a deeper understanding of how these elements interact and how they might influence each other in an urban context.
 
 
 
@@ -30,6 +30,7 @@ This dataset reflects all reported crime incidents in the City of Chicago, exclu
 
 ### Tools
 - SQLite
+- Power Bi
 
 ### Data Cleaning/Preparation
 
@@ -37,9 +38,14 @@ This dataset reflects all reported crime incidents in the City of Chicago, exclu
 - Making sure columns have headers.
 - Changing the names of tables to shorter ones.
 
-### Basic Data Analysis
+### Tasks
+- Executing targeted data queries to extract critical findings.
+- Integrating diverse datasets to identify key relationships and emerging patterns.
+- Conducting comprehensive data analysis to formulate actionable conclusions.
 
+### Project Link (Power BI)
 
+https://drive.google.com/file/d/1ZBA72G778v-jy2iNMbJXDUE1irSPFoXU/view?usp=drive_link
 
 
 
