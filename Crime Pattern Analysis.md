@@ -8,7 +8,7 @@ The interactive nature of the report allows for multi-faceted analysis. Users ca
 
 This report examines crime patterns in Chicago, utilizing data from the Chicago Crime Data dataset. The analysis focuses on understanding the distribution of crime across different locations, the frequency of various crime types, and the relationship between crime locations and arrest rates.
 
-![image](https://github.com/user-attachments/assets/193f757e-3995-4d1a-8fe9-aa123a485a3a)
+![image](https://github.com/user-attachments/assets/cf69c9b4-4dc7-4a6f-be13-7c8a66ac016e)
 
 ### Examples of Crime Patterns
 
@@ -17,25 +17,26 @@ This report examines crime patterns in Chicago, utilizing data from the Chicago 
 
 District 25 exhibits the highest overall crime frequency. Within this district, crimes are concentrated in locations such as Residences and Apartments, with Burglary and Assault being the predominant crime types. Further analysis reveals a disparity in arrest rates for these crimes, which warrants further investigation to understand the factors contributing to lower arrest rates.
 
-![image](https://github.com/user-attachments/assets/32d745ed-97a7-42a4-8d4d-05b1cc126933)
+![image](https://github.com/user-attachments/assets/ee1512f6-3c84-466c-8f20-43f35dee7cde)
 
 
 - Location-Based Crime Analysis:
 
 The "Sidewalk" is a frequent location for crime, particularly in Districts 11, 15, and 7. The most common crime types occurring on sidewalks include Narcotics, Battery, and Assault.
 
-![image](https://github.com/user-attachments/assets/6047fb8e-8da4-4de0-ac96-dfd8fa816a6f)
+![image](https://github.com/user-attachments/assets/c7b8befd-ab13-485e-9117-76f985c1493d)
 
 - Crime Type Analysis:
 
 Robbery incidents are concentrated in Districts 11, 20, and 2. These crimes frequently occur on streets, in alleys, and at restaurants and gas stations. Notably, arrest rates vary across these locations. While restaurants show a relatively higher arrest rate for robberies, gas stations and residential yards have a more even distribution of arrests and non-arrests.
-![image](https://github.com/user-attachments/assets/5abba37d-095b-43b6-851a-14b0b1f4815d)
+
+![image](https://github.com/user-attachments/assets/17d7c6e9-a549-42d2-ab8e-3ba6e959a5b0)
 
 - Arrest Rate Disparities:
 
 The "Arrest Rates by Crime Location" chart highlights locations with lower arrest success. For instance, "Residence-Garage" incidents show a low arrest rate. Further investigation reveals that Districts 20 and 16 have a higher frequency of crimes occurring at "Residence-Garage," and Burglary is the most common crime type in these instances.
 
-![image](https://github.com/user-attachments/assets/bf5c23b8-fcb6-422a-9b2e-9d25f6b51530)
+![image](https://github.com/user-attachments/assets/a7d0fc0c-2ae2-4366-9194-4dd854a811bd)
 
 
 - Crimes per Year
@@ -56,5 +57,5 @@ Some Findings:
 
 - Furthermore, our analysis of arrest data in relation to crime frequency yields an interesting correlation. The years exhibiting lower crime rates (2010-2016) also correspond with a lower number of arrests. Conversely, the years with higher crime rates show a proportional increase in arrests. This observation suggests that while law enforcement and arrests are a response to crime, they may not be the sole or most effective long-term solution. This aligns with the insights from our 'Hardship Index Analysis' (as previously discussed), which indicates that underlying economic and social factors play a significant role in driving crime. Therefore, a more comprehensive approach that includes addressing socioeconomic disparities, alongside effective law enforcement strategies, may be necessary to achieve sustained reductions in crime rates.
 
-![image](https://github.com/user-attachments/assets/1fb09379-ca0f-44cd-9e87-ebe33992ee74)
+![image](https://github.com/user-attachments/assets/b3deab8b-68d1-47c7-8753-b64fd0e27788)
 
