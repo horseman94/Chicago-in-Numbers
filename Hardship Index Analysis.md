@@ -30,7 +30,8 @@ The bottom graph reveals a strong negative correlation between income and the pe
 
 "Our analysis reveals that economic hardship in Chicago is fundamentally driven by lower per capita incomes. These depressed income levels, in turn, are directly attributable to reduced educational attainment and high unemployment rates within affected communities. Consequently, strategic investments in both education and job creation are crucial to alleviating hardship across the city."
 
-[Power Bi Report]([https://drive.google.com/file/d/1Ys5oJivp5grwI_8aC48gpcqv351kHIe0/view?usp=drive_link](https://drive.google.com/file/d/1ZBA72G778v-jy2iNMbJXDUE1irSPFoXU/view?usp=drive_link))
+[Power Bi Report](https://drive.google.com/file/d/1ZBA72G778v-jy2iNMbJXDUE1irSPFoXU/view?usp=drive_link)
+
 
 
 
